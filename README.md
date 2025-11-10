@@ -5,3 +5,5 @@
 反向动力学：根据最终位置计算骨骼状态<br>
 [ik.webp](ik.webp)<br>
 大概原理
+### 视频演示
+https://github.com/user-attachments/assets/2a125004-2d6e-4202-9a12-a3e3cbf0431b
