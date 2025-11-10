@@ -1,4 +1,5 @@
 ### Go语言实现的 IK 控制
+<image url="fk_test.webp"></image>
 [fk_test.webp](fk_test.webp)<br>
 正向动力学：根据骨骼状态计算最终位置<br>
 [ik_test.webp](ik_test.webp)<br>
